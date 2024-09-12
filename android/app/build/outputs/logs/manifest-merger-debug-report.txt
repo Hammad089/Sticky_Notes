@@ -1,0 +1,397 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] D:\Sticky_Notes\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-pager-view] D:\Sticky_Notes\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] D:\Sticky_Notes\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] D:\Sticky_Notes\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-async-storage_async-storage] D:\Sticky_Notes\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-splash-screen] D:\Sticky_Notes\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons] D:\Sticky_Notes\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d430c1ba7558782a5fdfdacec9725d7b\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\9ad428bb08ab0f839c150f49b3a66ee6\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\8c201fd86dec857e152f868b46aa6a9c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\444ae3e40e2b43d3188cf28e0b4dc278\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\7e3b0683730c1ba3e090a8d3a31d3279\transformed\jetified-imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\f8ddae1ff3ef2023f0749809ed021101\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mhamm\.gradle\caches\8.8\transforms\587d7a53b28fe53d930a06af037e1c06\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\3bfb347c827490c85dd8a28084ed5f16\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0bb4e26127b16f1e235d30c6d539323b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\393a1b64ff39779c6fcc03219e571d01\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\31cb1d25a61e8bbbf5ab1ed570681508\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\1987882b27eed8fc201a7fa5e12f2d01\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d610ae07c326c52bd9d3c2c5fa9e692f\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\acf154b7e0613aefdf417e2df9094ed4\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\735efe99181255021b884aba1918b7f7\transformed\jetified-fresco-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6289337ac751947e01314ca7ec4de582\transformed\jetified-drawee-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\4e7d1394c69e574f9545e4fef12dfa84\transformed\jetified-nativeimagefilters-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e5424b1ea71978bb3fa480a9138e8123\transformed\jetified-memory-type-native-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e073bcb89856f6fd0fd2001b677eb6d4\transformed\jetified-memory-type-java-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\a6d349ef4cd4c3a15ed46722056016f8\transformed\jetified-imagepipeline-native-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5afa26a636c50e4b5d6da825ae050ea5\transformed\jetified-memory-type-ashmem-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\cee6334cbab933b3039271aed284b687\transformed\jetified-imagepipeline-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d10a9dab1ab847147d179e96225604fe\transformed\jetified-nativeimagetranscoder-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\8585bf555d1f96060b192577795c086f\transformed\jetified-imagepipeline-base-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\9451e38537a419dbe585bcc7e8a3ca89\transformed\jetified-middleware-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d0fcc8451f9a9986c8aab71f7037b43d\transformed\jetified-ui-common-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\a6f72bdb5191d148ec9e989d61fbffbe\transformed\jetified-soloader-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\3d54521e8fcfcaea10ec9a7d25e7ee29\transformed\jetified-fbcore-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\ee4ff196dd80065aca886c4e5599822c\transformed\jetified-hermes-android-0.75.1-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\1dc1d12d38459720a72b752a4e174fd0\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\30c50bc191cd430a0d7e4c7aad4add26\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\ec3cb3f5283043b565e995c04e2465ba\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d6be5afa5f9e823a6aca340c170b830e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\bf5dca5317b3027c8b27c8f8e0b02fdb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\2e6804cb8294c80914979895c35e07ec\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\541b3e7c0713ef5e2394cc535b04d8d4\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\742a30ce96783ca89e871dce8e35c39b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6849800239ad1a5514094ed0d2588ce0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\7d79661ba45eac3136a974c96dbdf051\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\fb659e36d3724e81be2577b06c716221\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\856810a928d02998aed26be72818e6e2\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\b7c2b8e2688fb6d642072c4717c7048b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6e8f0d27c3d45e37470837bbc9392fb7\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\31782823b244f46c30feee5dbc1b93d0\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\41ea63f3dabe1a140c4792fedd6e315d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\971f5ed49ecec464a91dffbd13e8d5bf\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\80c5ac0ee10c6aa01ab9f65111501db7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f7ff4ed6d33f9b1177c3ea8f0651504b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\235fbd73350667b3f7592a6867cf5da6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\bbd92e9d9bfd665308f676d7607a2bf3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\220d665071991af876da6d069475b684\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\93879bb3c3a9293fb046f06a44a3e1bd\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d9cad17bdcffed6a511e61ec5d340fc8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\56176e146623a949500f401ba00c2d8b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\f711d4649123ccb574c8c91d83a87894\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\9aff7cf0b402544d3401ec7de093702d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e0269596b4e8f4361c0cdd9a7ff12526\transformed\jetified-fbjni-0.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:3:22-64
+application
+ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:5:5-8:50
+MERGED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:7:5-17:19
+MERGED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:18:5-22:19
+MERGED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:18:5-22:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d430c1ba7558782a5fdfdacec9725d7b\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d430c1ba7558782a5fdfdacec9725d7b\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\8c201fd86dec857e152f868b46aa6a9c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\8c201fd86dec857e152f868b46aa6a9c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\bf5dca5317b3027c8b27c8f8e0b02fdb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\bf5dca5317b3027c8b27c8f8e0b02fdb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\41ea63f3dabe1a140c4792fedd6e315d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\41ea63f3dabe1a140c4792fedd6e315d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:11:5-15:19
+	android:extractNativeLibs
+		INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:12:7-33
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:12:7-33
+	android:label
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:7:7-39
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:7:7-39
+	tools:ignore
+		ADDED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:8:9-48
+	android:roundIcon
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:9:7-52
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:9:7-52
+	tools:targetApi
+		ADDED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:7:9-29
+	android:icon
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:8:7-41
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:10:7-34
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:11:7-38
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml:6:9-44
+	android:name
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:6:7-38
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:6:7-38
+activity#com.sticky_notes.MainActivity
+ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from D:\Sticky_Notes\android\app\src\main\AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] D:\Sticky_Notes\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] D:\Sticky_Notes\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] D:\Sticky_Notes\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] D:\Sticky_Notes\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] D:\Sticky_Notes\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] D:\Sticky_Notes\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] D:\Sticky_Notes\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] D:\Sticky_Notes\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] D:\Sticky_Notes\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] D:\Sticky_Notes\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] D:\Sticky_Notes\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] D:\Sticky_Notes\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] D:\Sticky_Notes\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] D:\Sticky_Notes\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:10:5-44
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d430c1ba7558782a5fdfdacec9725d7b\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d430c1ba7558782a5fdfdacec9725d7b\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\9ad428bb08ab0f839c150f49b3a66ee6\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\9ad428bb08ab0f839c150f49b3a66ee6\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\8c201fd86dec857e152f868b46aa6a9c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\8c201fd86dec857e152f868b46aa6a9c\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\444ae3e40e2b43d3188cf28e0b4dc278\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\444ae3e40e2b43d3188cf28e0b4dc278\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\7e3b0683730c1ba3e090a8d3a31d3279\transformed\jetified-imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\7e3b0683730c1ba3e090a8d3a31d3279\transformed\jetified-imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\f8ddae1ff3ef2023f0749809ed021101\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\f8ddae1ff3ef2023f0749809ed021101\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mhamm\.gradle\caches\8.8\transforms\587d7a53b28fe53d930a06af037e1c06\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mhamm\.gradle\caches\8.8\transforms\587d7a53b28fe53d930a06af037e1c06\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\3bfb347c827490c85dd8a28084ed5f16\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\3bfb347c827490c85dd8a28084ed5f16\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0bb4e26127b16f1e235d30c6d539323b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0bb4e26127b16f1e235d30c6d539323b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\393a1b64ff39779c6fcc03219e571d01\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\393a1b64ff39779c6fcc03219e571d01\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\31cb1d25a61e8bbbf5ab1ed570681508\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\31cb1d25a61e8bbbf5ab1ed570681508\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\1987882b27eed8fc201a7fa5e12f2d01\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\1987882b27eed8fc201a7fa5e12f2d01\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d610ae07c326c52bd9d3c2c5fa9e692f\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\d610ae07c326c52bd9d3c2c5fa9e692f\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\acf154b7e0613aefdf417e2df9094ed4\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\acf154b7e0613aefdf417e2df9094ed4\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\735efe99181255021b884aba1918b7f7\transformed\jetified-fresco-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\735efe99181255021b884aba1918b7f7\transformed\jetified-fresco-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6289337ac751947e01314ca7ec4de582\transformed\jetified-drawee-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6289337ac751947e01314ca7ec4de582\transformed\jetified-drawee-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\4e7d1394c69e574f9545e4fef12dfa84\transformed\jetified-nativeimagefilters-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\4e7d1394c69e574f9545e4fef12dfa84\transformed\jetified-nativeimagefilters-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e5424b1ea71978bb3fa480a9138e8123\transformed\jetified-memory-type-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e5424b1ea71978bb3fa480a9138e8123\transformed\jetified-memory-type-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e073bcb89856f6fd0fd2001b677eb6d4\transformed\jetified-memory-type-java-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e073bcb89856f6fd0fd2001b677eb6d4\transformed\jetified-memory-type-java-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\a6d349ef4cd4c3a15ed46722056016f8\transformed\jetified-imagepipeline-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\a6d349ef4cd4c3a15ed46722056016f8\transformed\jetified-imagepipeline-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5afa26a636c50e4b5d6da825ae050ea5\transformed\jetified-memory-type-ashmem-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5afa26a636c50e4b5d6da825ae050ea5\transformed\jetified-memory-type-ashmem-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\cee6334cbab933b3039271aed284b687\transformed\jetified-imagepipeline-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\cee6334cbab933b3039271aed284b687\transformed\jetified-imagepipeline-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d10a9dab1ab847147d179e96225604fe\transformed\jetified-nativeimagetranscoder-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d10a9dab1ab847147d179e96225604fe\transformed\jetified-nativeimagetranscoder-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\8585bf555d1f96060b192577795c086f\transformed\jetified-imagepipeline-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\8585bf555d1f96060b192577795c086f\transformed\jetified-imagepipeline-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\9451e38537a419dbe585bcc7e8a3ca89\transformed\jetified-middleware-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\9451e38537a419dbe585bcc7e8a3ca89\transformed\jetified-middleware-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d0fcc8451f9a9986c8aab71f7037b43d\transformed\jetified-ui-common-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d0fcc8451f9a9986c8aab71f7037b43d\transformed\jetified-ui-common-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\a6f72bdb5191d148ec9e989d61fbffbe\transformed\jetified-soloader-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\a6f72bdb5191d148ec9e989d61fbffbe\transformed\jetified-soloader-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\3d54521e8fcfcaea10ec9a7d25e7ee29\transformed\jetified-fbcore-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\3d54521e8fcfcaea10ec9a7d25e7ee29\transformed\jetified-fbcore-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\ee4ff196dd80065aca886c4e5599822c\transformed\jetified-hermes-android-0.75.1-debug\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\ee4ff196dd80065aca886c4e5599822c\transformed\jetified-hermes-android-0.75.1-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\1dc1d12d38459720a72b752a4e174fd0\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\1dc1d12d38459720a72b752a4e174fd0\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\30c50bc191cd430a0d7e4c7aad4add26\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\30c50bc191cd430a0d7e4c7aad4add26\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\ec3cb3f5283043b565e995c04e2465ba\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\ec3cb3f5283043b565e995c04e2465ba\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d6be5afa5f9e823a6aca340c170b830e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d6be5afa5f9e823a6aca340c170b830e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\bf5dca5317b3027c8b27c8f8e0b02fdb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\bf5dca5317b3027c8b27c8f8e0b02fdb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\2e6804cb8294c80914979895c35e07ec\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\2e6804cb8294c80914979895c35e07ec\transformed\jetified-tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\541b3e7c0713ef5e2394cc535b04d8d4\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\541b3e7c0713ef5e2394cc535b04d8d4\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\742a30ce96783ca89e871dce8e35c39b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\742a30ce96783ca89e871dce8e35c39b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6849800239ad1a5514094ed0d2588ce0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6849800239ad1a5514094ed0d2588ce0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\7d79661ba45eac3136a974c96dbdf051\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\7d79661ba45eac3136a974c96dbdf051\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\fb659e36d3724e81be2577b06c716221\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\fb659e36d3724e81be2577b06c716221\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\856810a928d02998aed26be72818e6e2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\856810a928d02998aed26be72818e6e2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\b7c2b8e2688fb6d642072c4717c7048b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\b7c2b8e2688fb6d642072c4717c7048b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6e8f0d27c3d45e37470837bbc9392fb7\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\6e8f0d27c3d45e37470837bbc9392fb7\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\31782823b244f46c30feee5dbc1b93d0\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\31782823b244f46c30feee5dbc1b93d0\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\41ea63f3dabe1a140c4792fedd6e315d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\41ea63f3dabe1a140c4792fedd6e315d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\971f5ed49ecec464a91dffbd13e8d5bf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\971f5ed49ecec464a91dffbd13e8d5bf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\80c5ac0ee10c6aa01ab9f65111501db7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\80c5ac0ee10c6aa01ab9f65111501db7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f7ff4ed6d33f9b1177c3ea8f0651504b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f7ff4ed6d33f9b1177c3ea8f0651504b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\235fbd73350667b3f7592a6867cf5da6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\235fbd73350667b3f7592a6867cf5da6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\bbd92e9d9bfd665308f676d7607a2bf3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\bbd92e9d9bfd665308f676d7607a2bf3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\220d665071991af876da6d069475b684\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\220d665071991af876da6d069475b684\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\93879bb3c3a9293fb046f06a44a3e1bd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\93879bb3c3a9293fb046f06a44a3e1bd\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d9cad17bdcffed6a511e61ec5d340fc8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\d9cad17bdcffed6a511e61ec5d340fc8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\56176e146623a949500f401ba00c2d8b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\56176e146623a949500f401ba00c2d8b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\f711d4649123ccb574c8c91d83a87894\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\f711d4649123ccb574c8c91d83a87894\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\9aff7cf0b402544d3401ec7de093702d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\9aff7cf0b402544d3401ec7de093702d\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e0269596b4e8f4361c0cdd9a7ff12526\transformed\jetified-fbjni-0.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\e0269596b4e8f4361c0cdd9a7ff12526\transformed\jetified-fbjni-0.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Sticky_Notes\android\app\src\debug\AndroidManifest.xml
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:10:13-64
+	android:exported
+		ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:13:13-15:63
+	android:resource
+		ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from [:react-native-webview] D:\Sticky_Notes\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:16:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.facebook.react:react-android:0.75.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\f271b5d1d4a3aabeda052ec47c323776\transformed\jetified-react-android-0.75.1-debug\AndroidManifest.xml:20:13-77
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\bf5dca5317b3027c8b27c8f8e0b02fdb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\bf5dca5317b3027c8b27c8f8e0b02fdb\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\5cfd0c594334f8f51002443b6c1ebc4a\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mhamm\.gradle\caches\8.8\transforms\737281dd224cf4a092cfb214f7cde8af\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.sticky_notes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.sticky_notes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\0c02aa65ff8b11d5022566d0302b25e2\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.11.0] C:\Users\mhamm\.gradle\caches\8.8\transforms\08b0b0a02f24b5a512ce0b446ef8ba7e\transformed\jetified-soloader-0.11.0\AndroidManifest.xml:13:13-57
